@@ -1,7 +1,7 @@
 # Knowledge Polycentricity in South Korea
 
-- a project measuring knowledge interaction within South Korea
-- this code can be used for measuring knowledge networks using academic paper data (for this analysis the scientific paper data have been collected using Web of Science)
+- a project for measuring knowledge interaction for South Korean institutes and residential areas.
+- this code can be used for measuring knowledge networks using academic paper data (for this analysis the scientific paper data have been collected using Web of Science).
 
 ## License
 
